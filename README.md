@@ -34,7 +34,7 @@
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=skylightxo&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylightxo&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylightxo)](https://github.com/anuraghazra/github-readme-stats)
 
 [express]: https://expressjs.com/
 [react-native]: https://reactnative.dev/
