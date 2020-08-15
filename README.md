@@ -2,7 +2,6 @@
 
 - :mortar_board: Student of Applied Mathematics in Odessa I.I.Mechnikov National University.
 - 🌱 I’m currently learning [Express][express] and [React Native][react-native].
-- 👯 I’m looking to collaborate with other content creators.
 
 ### Contact me:
 
