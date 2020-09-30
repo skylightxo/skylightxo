@@ -1,7 +1,8 @@
 ### Hi there, my name is Daniil 👋
 
 - :mortar_board: Student of Applied Mathematics in Odessa I.I.Mechnikov National University.
-- 🌱 I’m currently learning [Express][express] and [React Native][react-native].
+- 🚀 Full-stack Javascript developer.
+- 🌱 I’m currently working in a startup company on a blockchain project.
 
 ### Contact me:
 
