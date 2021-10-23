@@ -2,7 +2,6 @@
 
 - :mortar_board: Student of Applied Mathematics in Odessa I.I.Mechnikov National University.
 - 🚀 Full-stack Javascript developer.
-- 🌱 I’m currently working in a startup company on a blockchain project.
 
 ### Contact me:
 
@@ -40,6 +39,6 @@
 
 [express]: https://expressjs.com/
 [react-native]: https://reactnative.dev/
-[linkedin]: https://www.linkedin.com/in/daniil-krutogolov-8a61181a7/
+[linkedin]: https://www.linkedin.com/in/daniil-krutogolov/
 [telegram]: https://t.me/skylightxo
 [gmail]: mailto:krtdaniil@gmail.com
