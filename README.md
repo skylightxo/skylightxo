@@ -1,6 +1,6 @@
 ### Hi there, my name is Daniil 👋
 
-- :mortar_board: Student of Applied Mathematics in Odessa I.I.Mechnikov National University.
+- :mortar_board: Student of Applied Mathematics in Odesa I.I.Mechnikov National University.
 - 🚀 Full-stack Javascript developer.
 
 ### Contact me:
