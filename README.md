@@ -1,6 +1,5 @@
-### Hi there, my name is Daniil 👋
+### Hi there, my name is Danylo 👋
 
-- :mortar_board: Student of Applied Mathematics in Odesa I.I.Mechnikov National University.
 - 🚀 Full-stack Javascript developer.
 
 ### Contact me:
