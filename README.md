@@ -1,4 +1,4 @@
-### Hi there, my name is Danylo 👋
+### Hi there, my name is Dan 👋
 
 - 🚀 Full-stack Javascript developer.
 
