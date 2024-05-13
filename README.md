@@ -1,12 +1,6 @@
 ### Hi there, my name is Dan 👋
 
-- 🚀 Full-stack Javascript developer.
-
-### Contact me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/telegram.svg" />][telegram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🚀 Full-stack Web3/Javascript developer.
 
 <br />
 
